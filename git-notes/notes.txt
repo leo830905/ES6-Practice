@@ -1,0 +1,7 @@
+git config --global user.name Leo
+git config --global user.email leo19940905@gmail.com
+
+
+git init
+
+lalala
